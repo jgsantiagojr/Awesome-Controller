@@ -1,6 +1,6 @@
 ### Jamie's Awesome Power Controller
 
-![final_product_cropped](C:\Users\jsantiago\Documents\RWM\Generic_Controller\images\final_product_cropped.jpg)
+![final_product_cropped](\images\final_product_cropped.jpg)
 
 
 
