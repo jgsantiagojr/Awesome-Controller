@@ -1,6 +1,6 @@
 ### Jamie's Awesome Power Controller
 
-![final_product_cropped](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/final_product_cropped.jpg)](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/demo.mp4 "Demo Video")
+[![final_product_cropped](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/final_product_cropped.jpg)](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/demo.mp4 "Demo Video")
 
 
 
