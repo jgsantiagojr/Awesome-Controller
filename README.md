@@ -38,7 +38,7 @@ So I took a step back. Focused on other things for a day, and came back with a p
 
 ##### Prototype 1
 
-![first_boards_cropped](C:\Users\jsantiago\Documents\RWM\Generic_Controller\images\first_boards_cropped.jpg)
+![first_boards_cropped](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/first_boards_cropped.jpg)
 
 So a week or two after I pivoted to a more module-focused path, I had my first PCBs shipped. After soldering them together, I saw a few obvious problems:
 
@@ -58,7 +58,7 @@ After I fixed all of these problems in the schematic and updated the layout I wa
 
 ##### Prototype 2
 
-![second_boards_cropped](C:\Users\jsantiago\Documents\RWM\Generic_Controller\images\second_boards_cropped.jpg)
+![second_boards_cropped](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/second_boards_cropped.jpg)
 
 My second boards were also my final boards. At the same time as ordering them I began designing my mechanical packaging.  The boards worked fairly well but still have a few bugs:
 
@@ -67,7 +67,7 @@ My second boards were also my final boards. At the same time as ordering them I 
 
 Something that wasn't really a bug but still a pain was the LEDs. They all worked, but since they were tiny and surface mount they took forever to solder on. If there is space to use LEDs that are easier to solder on I need to incorporate them. 
 
-![](C:\Users\jsantiago\Documents\RWM\Generic_Controller\images\mech_package.jpg)
+![](https://github.com/jgsantiagojr/Awesome-Controller/blob/main/images/mech_package.jpg)
 
 In terms of the mechanical packaging, my first attempt at a design was fun but didn't take into consideration that I would be 3D printing it, so I had to start from the beginning. For what would be my final package, I chose to have a simple plate and pegs to hold all of the modules secure next to each other in a clean way. 
 
