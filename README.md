@@ -4,7 +4,7 @@
 
 
 
-Hi I'm Jamie! My Awesome Power Controller is a device that is controlled by a Teensy 4.1 and contains 2 H-Bridges, 4 MOSFET switches, and 4 Relays, as well as 4 General Purpose Input Outputs and a Touchscreen Display.  
+Hi I'm Jamie! My Awesome Power Controller is a device that is controlled by a Teensy 4.1 and contains 2 H-Bridges, 4 MOSFET switches, and 4 Relays, as well as 4 General Purpose Input Outputs and a Touchscreen Display. Click on the image above for a demo!
 
 The user can choose to either run a pre-written code option or control the different devices independently. An example of a pre-written code option is the Sensor Driven Motor. If the user selects this option, the controller will run a script that sets the PWM signal for H-Bridge 1 to the input from a sensor that is connected to GPIO 14. If the user chooses to control the devices independently then they will be able to individually toggle each of the relays, set the PWM values for each MOSFET switch and set the PWM values and direction for each H-Bridge. 
 
