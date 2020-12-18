@@ -63,7 +63,8 @@ After I fixed all of these problems in the schematic and updated the layout I wa
 My second boards were also my final boards. At the same time as ordering them I began designing my mechanical packaging.  The boards worked fairly well but still have a few bugs:
 
 - Something is wrong with the power. Every once in a while the LCD display just shows the backlighting and the only way to fix it is by restarting the entire device. 
-- The layout of the board is very awkward. I need to re-lay all the components so that the board integrated more seamlessly with its packaging. 
+- The layout of the board is very awkward. I need to re-lay all the components so that the board integrated more seamlessly with its packaging.
+- Having a 6 pin connector for I2C is inconvient when only 4 pins are needed for i2c and the other 2 are for board power. I need to change that from a 6 pin to a 4 pin with a 2 port wire-to-board screw terminal. 
 
 Something that wasn't really a bug but still a pain was the LEDs. They all worked, but since they were tiny and surface mount they took forever to solder on. If there is space to use LEDs that are easier to solder on I need to incorporate them. 
 
